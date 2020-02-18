@@ -10,6 +10,12 @@ Code kata in Java where you have to write a library of books and magazines.
 * [Procedure](#procedure)
 * [License](#license)
 
+## TODO, et al. -- convert this to the proper .org documentation. :)
+
+While this was meant to be a challenge for a particular form, I have
+taken this on to explore the power of Spring Boot. I always like it
+when a code challenge has some utility beyond the intended. 
+
 ## Topic
 
 You have to implement an abstracted and simple library system.
