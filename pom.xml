@@ -70,7 +70,7 @@
         <version>1.6.0</version>
         <configuration>
           <classpathScope>test</classpathScope>
-          <mainClass>Main</mainClass>
+          <mainClass>org.echocat.kata.java.part1.Main</mainClass>
         </configuration>
         <executions>
           <execution>
