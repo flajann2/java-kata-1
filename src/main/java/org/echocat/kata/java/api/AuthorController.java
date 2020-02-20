@@ -11,12 +11,3 @@ import org.springframework.web.bind.annotation.RestController;
 public class AuthorController {
     private final AuthorService authorService = new AuthorService();
 }
-
-
-
-
-
-
-
-
-
