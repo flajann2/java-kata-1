@@ -5,8 +5,8 @@
   
   <modelVersion>4.0.0</modelVersion>
   
-  <groupId>org.echocat.kata</groupId>
-  <artifactId>java-kata-1</artifactId>
+  <groupId>de.zuseneat.sb-exploration</groupId>
+  <artifactId>sb-exploration</artifactId>
   <version>1-SNAPSHOT</version>
   
   <properties>
