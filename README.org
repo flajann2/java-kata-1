@@ -1,3 +1,20 @@
+#+TITLE: LaTeX Test
+#+DATE: \today
+#+AUTHOR: Fred Mitchell
+#+EMAIL: fred.mitchell@gmx.de
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 25.3.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+LATEX_CLASS: beamer
+#+BEAMER_THEME: Frankfurt
+#+BEAMER_INNER_THEME: rounded
 * Spring Boot Exploraiton
   Basically, this is my playpen
   for exploring the power of Spring Boot.
@@ -25,4 +42,6 @@
    Add a book and a magazine to the data structure of your software 
    and export it to a new CSV files.
 *** Kotlin alongside Java?
-    Yes. 
+    Yes. Kotlin's extension is .kt
+    Presumably, Mavin will know how to compile it.
+
