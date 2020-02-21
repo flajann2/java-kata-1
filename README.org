@@ -1,4 +1,4 @@
-#+TITLE: LaTeX Test
+#+TITLE: LaTeX in Org!
 #+DATE: \today
 #+AUTHOR: Fred Mitchell
 #+EMAIL: fred.mitchell@gmx.de
